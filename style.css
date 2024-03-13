@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-top {
+    background: gray;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: 45px;
+    font-family: sans-serif;
+}
